@@ -52,3 +52,14 @@ January 2021 - April 2021
 ### CSS - The Complete Guide, Udemy: CSS, SASS
 
 2021
+
+![GitHub Logo](github.jpg)
+Format: ![Alt Text](url)
+
+![RSSchool Logo](rsschool.jpg)
+Format: ![Alt Text](url)
+
+Designed 2021
+
+![Myphoto](photo.jpg)
+Format: ![Alt Text](url)
