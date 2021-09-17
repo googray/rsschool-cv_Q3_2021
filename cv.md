@@ -74,7 +74,8 @@ Format: ![Alt Text](url)
 
 ### Hard Skills
 
-- I'm use technologies as:
+**I'm use technologies as:**
+
 - HTML
 - CSS
 - JavaScript
