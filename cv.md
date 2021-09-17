@@ -63,3 +63,43 @@ Designed 2021
 
 ![Myphoto](photo.jpg)
 Format: ![Alt Text](url)
+
+## Contacts
+
+**Phone: tel:+48 516 416 511**
+**E-mail: shat.rom07@gmail.com**
+**GitHub: https://github.com/googray**
+
+## Tech skills
+
+### Hard Skills
+
+- I'm use technologies as:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git
+
+### Soft skills
+
+- Communicative
+- Teamwork
+- Time management
+- Responsibility
+- Timeliness
+
+### Languages
+
+- Polish - C1
+- English - B2
+- Russian - C2
+- Ukrainian - C2
+
+Download Resume - automatic!
+[GitHub](http://github.com/)
+
+### Hobbies
+
+- Sailing
+- Scuba diving
